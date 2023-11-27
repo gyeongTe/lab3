@@ -1,0 +1,5 @@
+[ Sat Nov 18 21:33:50 2023 ] RECV : /s 
+[ Sat Nov 18 21:33:50 2023 ] RECV : hello 
+[ Sat Nov 18 21:33:50 2023 ] RECV : Hillo 
+[ Sat Nov 18 21:33:56 2023 ] SEND : heelo 
+[ Sat Nov 18 21:34:04 2023 ] SEND : clear 
